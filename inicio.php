@@ -15,7 +15,7 @@
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="img/imagen.jpg" alt="Chicago" width="1100" height="500">
+      <img src="img/images (5).jpg" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
         <h3>Chicago</h3>
         <p>Thank you, Chicago!</p>
